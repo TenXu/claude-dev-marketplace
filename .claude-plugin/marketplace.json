@@ -1,30 +1,81 @@
 {
-  "name": "TenXu Dev Toolkit",
-  "description": "A curated set of useful Claude plugins for Android, debugging, API testing, and documentation.",
+  "name": "tenxu-dev-toolkit",
+  "owner": {
+    "name": "TenXu",
+    "email": "1289327592@qq.com
+  },
   "plugins": [
     {
-      "name": "CodeNavigator",
-      "repo": "blueset/codenav"
+      "name": "code-navigator",
+      "source": {
+        "source": "github",
+        "repo": "blueset/codenav"
+      },
+      "description": "Navigate and understand large codebases across files",
+      "version": "1.0.0",
+      "author": {
+        "name": "community"
+      }
     },
     {
-      "name": "Code Reviewer",
-      "repo": "SeanPlusPlus/claude-code-reviewer"
+      "name": "code-reviewer",
+      "source": {
+        "source": "github",
+        "repo": "SeanPlusPlus/claude-code-reviewer"
+      },
+      "description": "Automatic code review and optimization suggestions",
+      "version": "1.0.0",
+      "author": {
+        "name": "community"
+      }
     },
     {
-      "name": "Log Analyzer",
-      "repo": "lm-sys/loganalyzer"
+      "name": "log-analyzer",
+      "source": {
+        "source": "github",
+        "repo": "lm-sys/loganalyzer"
+      },
+      "description": "Analyze logs including Android logcat and error output",
+      "version": "1.0.0",
+      "author": {
+        "name": "community"
+      }
     },
     {
-      "name": "ADB Executor",
-      "repo": "bertdida/adb-executor-plugin"
+      "name": "adb-executor",
+      "source": {
+        "source": "github",
+        "repo": "bertdida/adb-executor-plugin"
+      },
+      "description": "Run adb commands directly for Android debugging",
+      "version": "1.0.0",
+      "author": {
+        "name": "community"
+      }
     },
     {
-      "name": "HTTP API Tester",
-      "repo": "darrenburns/httpie-ai"
+      "name": "http-api-tester",
+      "source": {
+        "source": "github",
+        "repo": "darrenburns/httpie-ai"
+      },
+      "description": "Test REST APIs quickly using Claude",
+      "version": "1.0.0",
+      "author": {
+        "name": "community"
+      }
     },
     {
-      "name": "Markdown Writer",
-      "repo": "homanp/claude-markdown-writer"
+      "name": "markdown-writer",
+      "source": {
+        "source": "github",
+        "repo": "homanp/claude-markdown-writer"
+      },
+      "description": "Generate structured documentation such as README or technical docs",
+      "version": "1.0.0",
+      "author": {
+        "name": "community"
+      }
     }
   ]
 }
