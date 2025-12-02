@@ -8,8 +8,8 @@
     {
       "name": "code-navigator",
       "source": {
-        "source": "github",
-        "repo": "blueset/codenav"
+        "source": "url",
+        "url": "https://github.com/blueset/codenav.git"
       },
       "description": "Navigate and understand large codebases across files",
       "version": "1.0.0",
@@ -20,8 +20,8 @@
     {
       "name": "code-reviewer",
       "source": {
-        "source": "github",
-        "repo": "SeanPlusPlus/claude-code-reviewer"
+        "source": "url",
+        "url": "https://github.com/SeanPlusPlus/claude-code-reviewer.git"
       },
       "description": "Automatic code review and optimization suggestions",
       "version": "1.0.0",
@@ -32,8 +32,8 @@
     {
       "name": "log-analyzer",
       "source": {
-        "source": "github",
-        "repo": "lm-sys/loganalyzer"
+        "source": "url",
+        "url": "https://github.com/lm-sys/loganalyzer.git"
       },
       "description": "Analyze logs including Android logcat and error output",
       "version": "1.0.0",
@@ -44,8 +44,8 @@
     {
       "name": "adb-executor",
       "source": {
-        "source": "github",
-        "repo": "bertdida/adb-executor-plugin"
+        "source": "url",
+        "url": "https://github.com/bertdida/adb-executor-plugin.git"
       },
       "description": "Run adb commands directly for Android debugging",
       "version": "1.0.0",
@@ -56,8 +56,8 @@
     {
       "name": "http-api-tester",
       "source": {
-        "source": "github",
-        "repo": "darrenburns/httpie-ai"
+        "source": "url",
+        "url": "https://github.com/darrenburns/httpie-ai.git"
       },
       "description": "Test REST APIs quickly using Claude",
       "version": "1.0.0",
@@ -68,8 +68,8 @@
     {
       "name": "markdown-writer",
       "source": {
-        "source": "github",
-        "repo": "homanp/claude-markdown-writer"
+        "source": "url",
+        "url": "https://github.com/homanp/claude-markdown-writer.git"
       },
       "description": "Generate structured documentation such as README or technical docs",
       "version": "1.0.0",
