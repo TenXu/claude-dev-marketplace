@@ -1,0 +1,30 @@
+{
+  "name": "TenXu Dev Toolkit",
+  "description": "A curated set of useful Claude plugins for Android, debugging, API testing, and documentation.",
+  "plugins": [
+    {
+      "name": "CodeNavigator",
+      "repo": "blueset/codenav"
+    },
+    {
+      "name": "Code Reviewer",
+      "repo": "SeanPlusPlus/claude-code-reviewer"
+    },
+    {
+      "name": "Log Analyzer",
+      "repo": "lm-sys/loganalyzer"
+    },
+    {
+      "name": "ADB Executor",
+      "repo": "bertdida/adb-executor-plugin"
+    },
+    {
+      "name": "HTTP API Tester",
+      "repo": "darrenburns/httpie-ai"
+    },
+    {
+      "name": "Markdown Writer",
+      "repo": "homanp/claude-markdown-writer"
+    }
+  ]
+}
